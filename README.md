@@ -1,1 +1,1 @@
-# Front-end for trading repo (see github.com/4lecir4/trading)
+# Front-end for trading repo (see github.com/4lexir4/trading)
